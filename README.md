@@ -5,7 +5,8 @@
 
 Sinirsel Stil Aktarımı kısaca hedef resmin içeriğini koruyarak referans resmin stilini aktarmaktan oluşan bir algoritmadır. 
 
-![ornek1](https://user-images.githubusercontent.com/41594106/127751715-bd7f0d6e-7660-4e80-a4c7-39da0900a084.png)
+
+![ornek2](https://user-images.githubusercontent.com/41594106/127782086-32020ab6-8132-4421-a998-c97b01fc1e2f.png)
 
 
 
